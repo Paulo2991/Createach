@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ravendb-cloud": "^1.0.2"
+  }
+}
